@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbase=self.webpackChunkbase||[]).push([[559],{94559:function(e,n,s){s.r(n);n.default={sign_in:"Anmelden",sign_out:"Abmelden",username:"Nutzername",password:"Passwort",about:"\xdcber",home:"Startseite",page_not_found:"Seite nicht gefunden",settings:"Einstellungen",language:"Sprache",en:"Englisch",de:"Deutsch",ru:"Russisch"}}}]);
+//# sourceMappingURL=559.f1d8ed75.chunk.js.map

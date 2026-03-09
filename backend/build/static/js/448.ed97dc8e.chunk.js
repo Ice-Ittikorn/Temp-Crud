@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbase=self.webpackChunkbase||[]).push([[448],{88448:function(n,e,s){s.r(e);e.default={sign_in:"Sign in",sign_out:"Sign out",username:"Username",password:"Password",about:"About",home:"Home",page_not_found:"Page not found",settings:"Settings",language:"Language",en:"English",de:"German",ru:"Russian"}}}]);
+//# sourceMappingURL=448.ed97dc8e.chunk.js.map
